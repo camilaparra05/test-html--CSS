@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    position: relative;
+}
+
+.img-uno {
+    width: 2000px;
+    height: 1000px;
+
+}
+
+.inicio h1 {
+    position: absolute;
+    top: 14%;
+    left: 700px;
+    background-color: white;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.vende {
+    position: absolute;
+    border: 1px solid rgb(17, 59, 0);
+    top: 16%;
+    left: 740px;
+    border-radius: 3px;
+}
+
+.compra {
+    position: absolute;
+    border: 1px solid black;
+    top: 16%;
+    left: 880px;
+    background-color: rgb(8, 83, 58);
+    border-radius: 3px;
+}
+
+.quienes {
+
+    background-color: rgb(15, 14, 14);
+    width: 2000px;
+    height: 1000px;
+    ;
+
+}
+
+.quienes h1 {
+    font-size: 35px;
+    position: absolute;
+    top: 23%;
+    left: 11%;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quienes h2 {
+    font-size: 70px;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    color: white;
+    text-align: center;
+}
+
+.img-dos {
+    font-size: 60px;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    height: 900px;
+    width: 1000PX;
+}
+
+.Anuncios {
+    background-color: white;
+    width: 2000px;
+    height: 1000px;
+}
+.an{
+    font-size: 60px;
+    text-align: center;
+}
+.linea{
+    position:absolute;
+    width: 370px;
+    background-color: black;
+    height: 1px;
+    top: 36%;
+    left: 16%;
+}
+.linea-uno{
+    position: absolute;
+    width: 370px;
+    background-color: black;
+    height: 1px;
+    top: 36%;
+    left: 82%;
+}
+
+.linea-dos{
+    position: absolute;
+    width: 370px;
+    background-color: black;
+    height: 1px;
+    top: 38%;
+    left: 51%;
+}
+.casa-uno{
+    position: absolute;
+    width: 370px;
+    height: 261px;
+    top: 37%;
+    left: 16%;
+
+}
+.casa-dos{
+    position: absolute;
+    width: 370px;
+    height: 261px;
+    top: 39%;
+    left: 51%;
+}
+.casa-tres{
+    position: absolute;
+    width: 370px;
+    height: 261px;
+    top: 37%;
+    left: 82%;
+}
+.tex{
+    position: absolute; 
+    top: 42%;
+    left: 17%;
+
+}
+.tex-uno{
+    position: absolute;
+    top: 44%;
+    left: 54%;
+}
+
+.tex-dos {
+    position: absolute;
+    top: 42%;
+    left: 86%;
+    width: 324px;
+}
+.Ventas {
+
+    background-color: white;
+    width: 2000px;
+    height: 1000px;
+    ;
+
+}
+.ven{
+    font-size: 60px;
+    text-align: center;
+}
+.linea-tres{
+    position:absolute;
+    width: 370px;
+    background-color: black;
+    height: 1px;
+    top: 53%;
+    left: 16%;
+}
+.linea-cuatro{
+    position: absolute;
+    width: 370px;
+    background-color: black;
+    height: 1px;
+    top: 53%;
+    left: 82%;
+}
+
+.linea-cinco{
+    position: absolute;
+    width: 370px;
+    background-color: black;
+    height: 1px;
+    top: 55%;
+    left: 51%;
+}
+.casa-cuatro{
+    position: absolute;
+    width: 370px;
+    height: 261px;
+    top: 54%;
+    left: 16%;
+
+}
+.casa-cinco{
+    position: absolute;
+    width: 370px;
+    height: 261px;
+    top: 56%;
+    left: 51%;
+}
+.casa-seis{
+    position: absolute;
+    width: 370px;
+    height: 261px;
+    top: 54%;
+    left: 82%;
+}
+.tex-tres{
+    position: absolute; 
+    top: 59%;
+    left: 17%;
+
+}
+.tex-cuatro{
+    position: absolute;
+    top: 61%;
+    left: 54%;
+}
+
+.tex-cinco{
+    position: absolute;
+    top: 59%;
+    left: 86%;
+    width: 324px;
+}
+.clientes {
+    background-color: white;
+    width: 2000px;
+    height: 1000px;
+    ;
+
+}
+.clientes h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.Contacto {
+    background-color: rgb(15, 14, 14);
+    width: 2000px;
+    height: 1000px;
+    ;
+
+}
+.vende-uno{
+    position: absolute;
+    border: 1px solid rgb(17, 59, 0);
+    top: 84%;
+    left: 40%;
+    font-size: 28px;
+    border-radius:3px;
+    color: aliceblue;
+}
+
+.compra-uno {
+    color: aliceblue;
+    position: absolute;
+    border: 1px solid black;
+    top: 84%;
+    left: 880px;
+    font-size: 28px;
+    border-radius: 3px;
+}
